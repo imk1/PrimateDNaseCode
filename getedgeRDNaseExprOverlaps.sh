@@ -1,0 +1,26 @@
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/HumanUpFibroblastMapNearestGenes ../ExpressionData/HumanUpFibroblastCoordsAutosome ../DNaseRegionData/HumanUpFibroblastNearUpExpr
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/HumanDownFibroblastMapNearestGenes ../ExpressionData/HumanUpFibroblastCoordsAutosome ../DNaseRegionData/HumanDownFibroblastNearUpExpr
+
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/ChimpUpFibroblastMapNearestGenes ../ExpressionData/HumanUpFibroblastCoordsEnsembl ../DNaseRegionData/ChimpUpFibroblastNearUpExprHuman
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/ChimpDownFibroblastMapNearestGenes ../ExpressionData/HumanUpFibroblastCoordsEnsembl ../DNaseRegionData/ChimpDownFibroblastNearUpExprHuman
+
+
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/HumanUpFibroblastMapNearestGenes ../ExpressionData/HumanDownFibroblastCoordsAutosome ../DNaseRegionData/HumanUpFibroblastNearDownExpr
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/HumanDownFibroblastMapNearestGenes ../ExpressionData/HumanDownFibroblastCoordsAutosome ../DNaseRegionData/HumanDownFibroblastNearDownExpr
+
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/ChimpUpFibroblastMapNearestGenes ../ExpressionData/HumanDownFibroblastCoordsEnsembl ../DNaseRegionData/ChimpUpFibroblastNearDownExprHuman
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/ChimpDownFibroblastMapNearestGenes ../ExpressionData/HumanDownFibroblastCoordsEnsembl ../DNaseRegionData/ChimpDownFibroblastNearDownExprHuman
+
+
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/HumanUpFibroblastMapNearestGenes ../ExpressionData/ChimpUpFibroblastCoordsAutosome ../DNaseRegionData/HumanUpFibroblastNearUpExprChimp
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/HumanDownFibroblastMapNearestGenes ../ExpressionData/ChimpUpFibroblastCoordsAutosome ../DNaseRegionData/HumanDownFibroblastNearUpExprChimp
+
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/ChimpUpFibroblastMapNearestGenes ../ExpressionData/ChimpUpFibroblastCoordsEnsembl ../DNaseRegionData/ChimpUpFibroblastNearUpExpr
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/ChimpDownFibroblastMapNearestGenes ../ExpressionData/ChimpUpFibroblastCoordsEnsembl ../DNaseRegionData/ChimpDownFibroblastNearUpExpr
+
+
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/HumanUpFibroblastMapNearestGenes ../ExpressionData/ChimpDownFibroblastCoordsAutosome ../DNaseRegionData/HumanUpFibroblastNearDownExprChimp
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/HumanDownFibroblastMapNearestGenes ../ExpressionData/ChimpDownFibroblastCoordsAutosome ../DNaseRegionData/HumanDownFibroblastNearDownExprChimp
+
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/ChimpUpFibroblastMapNearestGenes ../ExpressionData/ChimpDownFibroblastCoordsEnsembl ../DNaseRegionData/ChimpUpFibroblastNearDownExpr
+python getFracDNaseNearDiffExpr.py ../DNaseRegionData/ChimpDownFibroblastMapNearestGenes ../ExpressionData/ChimpDownFibroblastCoordsEnsembl ../DNaseRegionData/ChimpDownFibroblastNearDownExpr

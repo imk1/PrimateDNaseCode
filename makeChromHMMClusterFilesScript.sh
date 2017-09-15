@@ -1,0 +1,15 @@
+grep 1_Active_Promoter ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust1CoordsSorted
+grep 2_Weak_Promoter ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust2CoordsSorted
+grep 3_Poised_Promoter ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust3CoordsSorted
+grep 4_Strong_Enhancer ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust4CoordsSorted
+grep 5_Strong_Enhancer ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust5CoordsSorted
+grep 6_Weak_Enhancer ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust6CoordsSorted
+grep 7_Weak_Enhancer ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust7CoordsSorted
+grep 8_Insulator ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust8CoordsSorted
+grep 9_Txn_Transition ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust9CoordsSorted
+grep 10_Txn_Elongation ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust10CoordsSorted
+grep 11_Weak_Txn ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust11CoordsSorted
+grep 12_Repressed ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust12CoordsSorted
+grep 13_Heterochrom/lo ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust13CoordsSorted
+grep 14_Repetitive/CNV ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust14CoordsSorted
+grep 15_Repetitive/CNV ../HumanGenome/wgEncodeBroadHmmNhekHMM.bed | cut -f1,2,3 | sort -k1,1 -k2,2n -k3,3n > ../HumanGenome/ChromHMMClust15CoordsSorted

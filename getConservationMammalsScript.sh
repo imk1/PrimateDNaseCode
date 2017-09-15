@@ -1,0 +1,9 @@
+python getConservation.py ../DNaseRegionData/HumanUpLymphoblastSeqDiffsSorted100bp ../ConservationData/Mammals/chrAll.phastCons46way.placental.wigFix ../DNaseRegionData/SeqDiffRegions100bp/HumanUpLymphoblastSeqDiffsConservM
+python getConservation.py ../DNaseRegionData/SeqDiffRegions100bp/HumanUpLymphoblastSeqDiffsSortedRegion10bp ../ConservationData/Mammals/chrAll.phastCons46way.placental.wigFix ../DNaseRegionData/SeqDiffRegions100bp/HumanUpLymphoblastSeqDiffsConservM10bp
+python getConservation.py ../DNaseRegionData/SeqDiffRegions100bp/HumanUpLymphoblastSeqDiffsSortedRegion100bp ../ConservationData/Mammals/chrAll.phastCons46way.placental.wigFix ../DNaseRegionData/SeqDiffRegions100bp/HumanUpLymphoblastSeqDiffsConservM100bp
+python getConservation.py ../DNaseRegionData/SeqDiffRegions100bp/HumanUpLymphoblastSeqDiffsSortedRegion1000bp ../ConservationData/Mammals/chrAll.phastCons46way.placental.wigFix ../DNaseRegionData/SeqDiffRegions100bp/HumanUpLymphoblastSeqDiffsConservM1000bp
+
+python getConservation.py ../DNaseRegionData/CommonLymphoblastSeqDiffsSorted100bp ../ConservationData/Mammals/chrAll.phastCons46way.placental.wigFix ../DNaseRegionData/SeqDiffRegions100bp/CommonLymphoblastSeqDiffsConservM
+python getConservation.py ../DNaseRegionData/SeqDiffRegions100bp/CommonLymphoblastSeqDiffsSortedRegion10bp ../ConservationData/Mammals/chrAll.phastCons46way.placental.wigFix ../DNaseRegionData/SeqDiffRegions100bp/CommonLymphoblastSeqDiffsConservM10bp
+python getConservation.py ../DNaseRegionData/SeqDiffRegions100bp/CommonLymphoblastSeqDiffsSortedRegion100bp ../ConservationData/Mammals/chrAll.phastCons46way.placental.wigFix ../DNaseRegionData/SeqDiffRegions100bp/CommonLymphoblastSeqDiffsConservM100bp
+python getConservation.py ../DNaseRegionData/SeqDiffRegions100bp/CommonLymphoblastSeqDiffsSortedRegion1000bp ../ConservationData/Mammals/chrAll.phastCons46way.placental.wigFix ../DNaseRegionData/SeqDiffRegions100bp/CommonLymphoblastSeqDiffsConservM1000bp
